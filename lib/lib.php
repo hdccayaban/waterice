@@ -1,5 +1,5 @@
 <?php	
-	require_once '../config/config.php';
+	require_once '../../../htdocs_config/config/config.php';
 	require_once '../lib/src/waterice_class.php';
 
 	
