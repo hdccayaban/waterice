@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8;" />
-		<title>CROP CUT</title>	
+		<title>WATER RICE</title>	
 		<link rel="stylesheet" type="text/css" href="../../../css/style_parse.css" media="screen" />
 	</head>
 	<body >
