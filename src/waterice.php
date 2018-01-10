@@ -16,8 +16,7 @@
 				$ltxt = fgetcsv($file_handle, 10240);
 				$data = $grp1 = array();
 				$data = $ltxt;
-				//echo $data[493]."<br>";
-				if(!empty($ltxt[47])){
+				if(!empty($ltxt[6])){
 					if($db->verifyData($ltxt[6])){						
 						echo "no duplicate : ".$ltxt[6];
 						$waterice->insertData($data);							
